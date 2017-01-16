@@ -1,0 +1,16 @@
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\App.g.cs
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel.g.resources
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\local\Desktop\TomaszSzablak_136152\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\local\Desktop\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\local\Desktop\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\local\Desktop\Hotel\Hotel\obj\Debug\Hotel.pdb
